@@ -3,8 +3,7 @@ const path = require('path');
 const axios = require('axios');
 const http = require('http');
 
-// 1) Используя axios или fetch сделать запрос к одному из моковых API (например, https://jsonplaceholder.typicode.com).
-// Полученный JSON записать в файл с помощью модуля fs.
+// 1) Используя axios или fetch  ,.
 // Сохранить логику задачи в виде функции.
 
 // ;(async ()=> {
